@@ -112,6 +112,7 @@ var scene = document.getElementById('scene');
 var parallax = new Parallax(scene);
 
 /*===== CURSOR =====*/
+/*
 var cursor = document.querySelector('.cursor');
 document.addEventListener('mousemove', function(e){
   cursor.style.left = e.pageX + "px";
@@ -125,4 +126,4 @@ cursor__effect.forEach(link => {
   link.addEventListener('mouseover', () =>{
     cursor.classList.add('cursor__shrink');
   });
-});
+});*/
