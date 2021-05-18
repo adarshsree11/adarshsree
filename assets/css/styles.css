@@ -663,8 +663,6 @@ iframe{
 @media screen and (min-width: 768px){
   body{
     margin: 0;
-    /*cursor: none;*/
-    
   }
   .cursor{
     position: absolute;
