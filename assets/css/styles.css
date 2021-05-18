@@ -664,6 +664,7 @@ iframe{
   body{
     margin: 0;
     /*cursor: none;*/
+    
   }
   .cursor{
     position: absolute;
