@@ -1,3 +1,5 @@
+alert("website under construction!");
+
 /*===== MAP =====*/ 
 function initMap() {
   var location = {lat: location, lng: location};
