@@ -1,4 +1,4 @@
-alert("website under construction!");
+window.alert("website under construction!");
 
 /*===== MAP =====*/ 
 function initMap() {
